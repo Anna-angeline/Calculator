@@ -9,4 +9,4 @@ A simple and creative calculator built using HTML, CSS, and JavaScript.
 - History panel
 
 ## Live Demo
-http://127.0.0.1:5500/Tasks/Simple_Calculator.html
+https://anna-angeline.github.io/calculator/Simple_Calculator.html
