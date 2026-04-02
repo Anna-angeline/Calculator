@@ -1,2 +1,12 @@
-# calculator
-Simple creative calculator using HTML, CSS, JavaScript
+# Calculator
+
+A simple and creative calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Clean UI
+- Responsive layout
+- Basic operations (+, -, *, /)
+- History panel
+
+## Live Demo
+https://your-username.github.io/calculator/
